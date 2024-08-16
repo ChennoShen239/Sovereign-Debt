@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8d2ce33134e81b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dcbb5d80acce2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6b78c390d43d824",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "The Buyback Boondoggle/51_bpea88.pdf"
+              }
+            }
+          },
+          {
+            "id": "c1aa858a052730c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Buyback Boondoggle/Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a39008dd897d797",
+    "type": "split",
+    "children": [
+      {
+        "id": "559e430137c6f097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61aabc22e9f3050",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba3aaa746e9082c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\\[\"aliases\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6edfd6a22e915ee5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "196eee78faba39ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e258a72adf0d5ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecfe6f8d011b1c42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Buyback Boondoggle/Note.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97e7c83702ef1567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Buyback Boondoggle/Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd650ec93ff45a7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0bec915a0632f52c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Buyback Boondoggle/Note.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c1aa858a052730c7",
+  "lastOpenFiles": [
+    "The Buyback Boondoggle/Note.pdf",
+    "Screenshot 2024-08-16 at 19.27.48.png",
+    "Screenshot 2024-08-16 at 17.26.51.png",
+    "Screenshot 2024-08-16 at 17.20.37.png",
+    "The Buyback Boondoggle/51_bpea88.pdf",
+    "The Buyback Boondoggle/Note.md",
+    "Sovereign Debt Restructurings/Note.md",
+    "Sovereign Debt Restructurings/main.pdf",
+    "Maturity, Indebtedness, and Default Risk.md",
+    "The Buyback Boondoggle",
+    "Efficient computation with taste shock/The Buyback Boondoggle/51_bpea88.pdf",
+    "Efficient computation with taste shock/The Buyback Boondoggle/51_bpea88.pdf.crdownload",
+    "Efficient computation with taste shock/The Buyback Boondoggle",
+    "Efficient computation with taste shock/wp19-15.pdf",
+    "Efficient computation with taste shock/wp19-15.pdf.crdownload",
+    "Efficient computation with taste shock",
+    "Screenshot 2024-08-16 at 16.28.40.png",
+    "Screenshot 2024-08-16 at 16.16.47.png",
+    "Unique equilibrium in the Eaton–Gersovitz model of sovereign debt/1-s2.0-S0304393216301155-main.pdf",
+    "Unique equilibrium in the Eaton–Gersovitz model of sovereign debt/Note.md",
+    "Screenshot 2024-08-16 at 16.10.29.png",
+    "Screenshot 2024-08-16 at 16.08.56.png",
+    "Screenshot 2024-08-16 at 16.03.48.png",
+    "Screenshot 2024-08-16 at 16.03.38.png",
+    "Screenshot 2024-08-16 at 16.00.27.png",
+    "Sovereign debt EN.md",
+    "Sovereign Risk and secondary markets.md"
+  ]
+}
